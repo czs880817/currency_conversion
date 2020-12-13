@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="network_error">Network error!</string>
+    <string name="input_hint">Input Amount</string>
+</resources>
